@@ -16,9 +16,14 @@ Or install it yourself as:
 
     $ gem install jquery-slimscroll-rails
 
+add this to your app/assets/javascripts/application.js:
+
+    //= require jquery.slimscroll.min
+
 ## Usage
 
 TODO: Write usage instructions here
+
 
 ## Contributing
 
